@@ -35,7 +35,7 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
 
 ### 🛠️ Skills & Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,java,python,linux,postman,figma,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,cpp,java,python,linux,postman,figma,tensorflow" />
 </p>
 
 ---
