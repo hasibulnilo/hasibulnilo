@@ -61,7 +61,7 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
 
 #### 🔹 AI Model Inventory (MERN)
 A full-stack marketplace for AI models — upload, buy & manage models.  
-🟢 **Live:** https://ai-model-client.vercel.app  
+🟢 **Live:**:https://ai-model-inventory-manager-1.netlify.app  
 🛠 **Stack:** React, Tailwind, Node.js, Express, MongoDB  
 🔐 Authentication Included
 
