@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/NgKq6cLp/github-banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/kVLLKNs5/IMG-20251119-012522.jpg" alt="Banner" width="100%" />
 </p>
 
 
