@@ -1,6 +1,7 @@
 
-![Banner Image](https://i.ibb.co/NgKq6cLp/github-banner.png)
-
+<p align="center">
+  <img src="https://i.ibb.co/NgKq6cLp/github-banner.png" alt="Banner" width="100%" />
+</p>
 
 
 
