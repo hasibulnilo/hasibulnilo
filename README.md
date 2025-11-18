@@ -1,29 +1,94 @@
+![Banner](https://i.ibb.co/vvR9pdx/github-banner.png)
+
 <h1 align="center">Hi 👋, I'm Hasibul Islam Niloy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer | MERN Stack Learner | Passionate About Building Scalable Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibulnilo&label=Profile%20views&color=0e75b6&style=flat" alt="hasibulnilo" /> </p>
+📍 **Location:** Bangladesh  
+📧 **Email:** hasibulislamniloy142@gmail.com  
 
-- 🔭 I’m currently working on [in MERN STACK](https://github.com/hasibulnilo/ai-model-client.git)
+---
 
-- 🌱 I’m currently learning **Node.js,Express.js**
+### 👨‍💻 About Me  
+I’m a passionate developer who loves building responsive, modern web applications. Currently working with the **MERN Stack**, learning backend development, and exploring advanced concepts in **Machine Learning**.
 
-- 👨‍💻 All of my projects are available at [https://hasibulnilo.github.io/responsive-web-dev-portfolio/](https://hasibulnilo.github.io/responsive-web-dev-portfolio/)
+---
 
-- 💬 Ask me about **react.js,java.c,c++,python,machine learning**
+### 🔥 What I'm Doing Now:
+- 🚀 Working on: **AI Model Marketplace (MERN Stack)**
+- 📚 Learning **Node.js & Express.js**
+- 🧪 Exploring **Next.js** & **Machine Learning**
+- 🎯 Goal: Become a full-stack developer
 
-- 📫 How to reach me **hasibulislamniloy142@gmail.com**
+---
 
-- 📄 Know about my experiences [https://hasibulnilo.github.io/responsive-web-dev-portfolio/](https://hasibulnilo.github.io/responsive-web-dev-portfolio/)
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Skills & Technologies  
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hasibul-islam-niloy-154991268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hasibul-islam-niloy-154991268" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/niloyal.hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/niloyal.hasan" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hi_niloy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hi_niloy/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@hi-niloy786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hi-niloy786" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,cpp,java,python,linux,docker,postman,figma,tensorflow" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibulnilo&show_icons=true&locale=en" alt="hasibulnilo" /></p>
+### 🌍 Connect With Me:
+<p align="left">
+<a href="https://linkedin.com/in/hasibul-islam-niloy-154991268" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+</a>
+<a href="https://facebook.com/niloyal.hasan" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="35" />
+</a>
+<a href="https://youtube.com/@hi-niloy786" target="_blank">
+<img src="https://skillicons.dev/icons?i=youtube" height="35" />
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasibulnilo&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulnilo&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Pinned Repositories  
+
+#### 🔹 AI Model Inventory (MERN)
+🚀 Full MERN web app for buying & selling AI models  
+🟢 Live: https://ai-model-client.vercel.app  
+🛠 Tech: React, Tailwind, Node, MongoDB  
+📦 Backend + Client + Auth Included
+
+---
+
+#### 🔹 Responsive Portfolio Website  
+🎨 My personal portfolio website  
+🟢 Live: https://hasibulnilo.github.io/responsive-web-dev-portfolio  
+🛠 Tech: HTML, CSS, JS
+
+---
+
+#### 🔹 ML Learning Repository  
+📘 Notebooks & ML practice projects  
+🛠 Tech: Python, NumPy, Pandas, Sklearn
+
+---
+
+### 🧾 Project README Suggestions (For each pinned repo)
+**Must include:**
+- Short Description  
+- Live Link  
+- Tech Stack  
+- Core Features  
+- Dependencies list  
+- Screenshot (if possible)  
+- Setup Guide to run locally  
+
+Example:
+
+```md
+## Run Locally
+git clone <repo>
+cd project
+npm install
+npm run dev
