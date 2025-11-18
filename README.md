@@ -63,7 +63,7 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
 
 ---
 
-### 📌 Featured Projects (Pinned Repos)
+### 📌 Featured Projects (Pinned Repository)
 
 #### 🔹 AI Model Inventory (MERN)
 A full-stack marketplace for AI models — upload, buy & manage models.  
