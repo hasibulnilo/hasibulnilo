@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/vvR9pdx/github-banner.png)
+![Banner](https://ibb.co.com/NgKq6cLp)
 
 <h1 align="center">Hi 👋, I'm Hasibul Islam Niloy</h1>
 <h3 align="center">Frontend Developer | MERN Stack Developer in Progress | Focused on Scalable & Modern Web Apps</h3>
