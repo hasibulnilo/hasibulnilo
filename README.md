@@ -1,5 +1,4 @@
-
-<p align="center">
+javaalign="center">
   <img src="https://i.ibb.co.com/kVLLKNs5/IMG-20251119-012522.jpg" alt="Banner" width="100%" />
 </p>
 
@@ -36,7 +35,7 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
 
 ### 🛠️ Skills & Technologies  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,cpp,java,python,linux,docker,postman,figma,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,java,python,linux,postman,figma,tensorflow" />
 </p>
 
 ---
