@@ -1,49 +1,55 @@
 ![Banner](https://i.ibb.co/vvR9pdx/github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Hasibul Islam Niloy</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | Passionate About Building Scalable Web Apps</h3>
+<h3 align="center">Frontend Developer | MERN Stack Developer in Progress | Focused on Scalable & Modern Web Apps</h3>
 
-📍 **Location:** Bangladesh  
-📧 **Email:** hasibulislamniloy142@gmail.com  
+---
+
+### 📍 Location & Contact
+- 🇧🇩 **Bangladesh**
+- 📩 **hasibulislamniloy142@gmail.com**
 
 ---
 
 ### 👨‍💻 About Me  
-I’m a passionate developer who loves building responsive, modern web applications. Currently working with the **MERN Stack**, learning backend development, and exploring advanced concepts in **Machine Learning**.
+I am a dedicated frontend developer currently transitioning into full-stack development with the **MERN Stack**.  
+I focus on writing clean, efficient, and scalable code — and I love building visually appealing and responsive user interfaces.
+
+I am also exploring the exciting world of **Machine Learning**, aiming to blend web development with intelligent systems.
 
 ---
 
-### 🔥 What I'm Doing Now:
-- 🚀 Working on: **AI Model Marketplace (MERN Stack)**
+### 🔥 What I'm Working On
+- 🚀 **AI Model Marketplace** — Full MERN Stack Project
 - 📚 Learning **Node.js & Express.js**
-- 🧪 Exploring **Next.js** & **Machine Learning**
-- 🎯 Goal: Become a full-stack developer
+- 🧪 Experimenting with **Next.js & Machine Learning**
+- 🎯 Long-term goal: Become a **Full-Stack Developer**
 
 ---
 
 ### 🛠️ Skills & Technologies  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,cpp,java,python,linux,docker,postman,figma,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,cpp,java,python,linux,docker,postman,figma,tensorflow" />
 </p>
 
 ---
 
-### 🌍 Connect With Me:
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/hasibul-islam-niloy-154991268" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-</a>
-<a href="https://facebook.com/niloyal.hasan" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="35" />
-</a>
-<a href="https://youtube.com/@hi-niloy786" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube" height="35" />
-</a>
+  <a href="https://linkedin.com/in/hasibul-islam-niloy-154991268" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+  </a>
+  <a href="https://facebook.com/niloyal.hasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" />
+  </a>
+  <a href="https://youtube.com/@hi-niloy786" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" width="45" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasibulnilo&show_icons=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulnilo&theme=tokyonight" />
@@ -51,44 +57,34 @@ I’m a passionate developer who loves building responsive, modern web applicati
 
 ---
 
-### 📌 Pinned Repositories  
+### 📌 Featured Projects (Pinned Repos)
 
 #### 🔹 AI Model Inventory (MERN)
-🚀 Full MERN web app for buying & selling AI models  
-🟢 Live: https://ai-model-client.vercel.app  
-🛠 Tech: React, Tailwind, Node, MongoDB  
-📦 Backend + Client + Auth Included
+A full-stack marketplace for AI models — upload, buy & manage models.  
+🟢 **Live:** https://ai-model-client.vercel.app  
+🛠 **Stack:** React, Tailwind, Node.js, Express, MongoDB  
+🔐 Authentication Included
 
 ---
 
-#### 🔹 Responsive Portfolio Website  
-🎨 My personal portfolio website  
-🟢 Live: https://hasibulnilo.github.io/responsive-web-dev-portfolio  
-🛠 Tech: HTML, CSS, JS
+#### 🔹 Developer Portfolio  
+Responsive personal portfolio showcasing projects & skills.  
+🟢 **Live:** https://hasibulnilo.github.io/responsive-web-dev-portfolio  
+🛠 **Stack:** HTML, CSS, JavaScript
 
 ---
 
 #### 🔹 ML Learning Repository  
-📘 Notebooks & ML practice projects  
-🛠 Tech: Python, NumPy, Pandas, Sklearn
+A collection of machine learning models, notebooks & experiments.  
+🛠 **Stack:** Python, NumPy, Pandas, Scikit-learn
 
 ---
 
-### 🧾 Project README Suggestions (For each pinned repo)
-**Must include:**
-- Short Description  
-- Live Link  
-- Tech Stack  
-- Core Features  
-- Dependencies list  
-- Screenshot (if possible)  
-- Setup Guide to run locally  
 
-Example:
 
-```md
-## Run Locally
-git clone <repo>
-cd project
+**Example Setup Guide:**
+```bash
+git clone <repo-url>
+cd project-folder
 npm install
 npm run dev
