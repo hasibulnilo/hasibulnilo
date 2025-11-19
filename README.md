@@ -135,7 +135,6 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
     alt="Top Languages Stats"
   />
 </p>
----
 
 ### 📌 Featured Projects (Pinned Repository)
 
@@ -159,12 +158,3 @@ A collection of machine learning models, notebooks & experiments.
 🛠 **Stack:** Python, NumPy, Pandas, Scikit-learn
 
 ---
-
-
-
-**Example Setup Guide:**
-```bash
-git clone <repo-url>
-cd project-folder
-npm install
-npm run dev
