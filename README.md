@@ -37,7 +37,73 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,cpp,java,python,linux,postman,figma,tensorflow" />
 </p>
+## 🔗 When I code, I rely on
 
+<table>
+  <tr>
+    <th>Skills Overview</th>
+    <th>Technologies</th>
+  </tr>
+
+  <!-- Languages -->
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" height="30" />
+      JavaScript
+    </td>
+  </tr>
+
+  <!-- Frontend -->
+  <tr>
+    <td><b>Frontend Technologies</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" height="30" />
+      <img src="https://skillicons.dev/icons?i=css" height="30" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30" />
+      <img src="https://skillicons.dev/icons?i=react" height="30" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="30" />
+      <img src="https://skillicons.dev/icons?i=redux" height="30" />
+    </td>
+  </tr>
+
+  <!-- Backend -->
+  <tr>
+    <td><b>Back-End Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30" />
+      <img src="https://skillicons.dev/icons?i=express" height="30" />
+    </td>
+  </tr>
+
+  <!-- Database -->
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" height="30" />
+      MongoDB
+    </td>
+  </tr>
+
+  <!-- Tools -->
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" height="30" />
+      <img src="https://skillicons.dev/icons?i=github" height="30" />
+      <img src="https://skillicons.dev/icons?i=firebase" height="30" />
+      <img src="https://skillicons.dev/icons?i=postman" height="30" />
+      <img src="https://skillicons.dev/icons?i=npm" height="30" />
+      <img src="https://skillicons.dev/icons?i=bash" height="30" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="30" />
+      <img src="https://skillicons.dev/icons?i=figma" height="30" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="30" />
+      <img src="https://skillicons.dev/icons?i=netlify" height="30" />
+      <img src="https://skillicons.dev/icons?i=cloudflare" height="30" />
+    </td>
+  </tr>
+
+</table>
 ---
 
 ### 🌐 Connect With Me
