@@ -104,7 +104,6 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
   </tr>
 
 </table>
----
 
 ### 🌐 Connect With Me
 <p align="left">
@@ -135,7 +134,7 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
     alt="Top Languages Stats"
   />
 </p>
-
+---
 ### 📌 Featured Projects (Pinned Repository)
 
 #### 🔹 AI Model Inventory (MERN)
