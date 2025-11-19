@@ -29,7 +29,7 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
 - 🚀 **AI Model Marketplace** — Full MERN Stack Project
 - 📚 Learning **Node.js & Express.js**
 - 🧪 Experimenting with **Next.js & Machine Learning**
-- 🎯 Long-term goal: Become a **Full-Stack Developer**
+- 🎯 Long-term goal: Become a **Full-Stack Developer and Software Engineering **
 
 ---
 
