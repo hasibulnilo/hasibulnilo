@@ -12,7 +12,7 @@
 ---
 
 ### 📍 Location & Contact
-- 🇧🇩 **Bangladesh**
+- 🇧🇩 **Dhaka,Bangladesh**
 - 📩 **hasibulislamniloy142@gmail.com**
 
 ---
