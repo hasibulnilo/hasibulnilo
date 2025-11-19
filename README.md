@@ -61,6 +61,14 @@ I am also exploring the exciting world of **Machine Learning**, aiming to blend 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulnilo&theme=tokyonight" />
 </p>
 
+### 🏆 Top Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulnilo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Top Languages Stats"
+  />
+</p>
 ---
 
 ### 📌 Featured Projects (Pinned Repository)
